@@ -9,8 +9,6 @@
   ],
   "license": "BSD",
   "homepage": "https://github.com/geometrybase/js-binarypack",
-  "moduleType": [],
-  "private": true,
   "ignore": [
     "node_modules",
     "bower_components",
