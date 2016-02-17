@@ -1,7 +1,9 @@
 {
   "name": "binarypack",
   "description": "BinaryPack serialization for the web browser",
-  "main": "./dist/binarypack.min.js",
+  "main": [
+    "dist/binarypack.min.js"
+    ],
   "authors": [
     "CHEN JILIN"
   ],
