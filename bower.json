@@ -4,10 +4,6 @@
   "main": [
     "dist/binarypack.min.js"
     ],
-  "authors": [
-    "CHEN JILIN"
-  ],
-  "license": "BSD",
   "homepage": "https://github.com/geometrybase/js-binarypack",
   "ignore": [
     "node_modules",
