@@ -1,0 +1,19 @@
+{
+  "name": "binarypack",
+  "description": "BinaryPack serialization for the web browser",
+  "main": "./dist/binarypack.min.js",
+  "authors": [
+    "CHEN JILIN"
+  ],
+  "license": "BSD",
+  "homepage": "https://github.com/geometrybase/js-binarypack",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
